@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294945150333",
+    "project_id": "smart-bin-d45a1",
+    "storage_bucket": "smart-bin-d45a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294945150333:android:402158f1c19a2f978d6814",
+        "android_client_info": {
+          "package_name": "com.example.smart_bin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6c9MPuOL-hVrXr6QOGmgTVQi_HJQgtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
